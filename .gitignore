@@ -1,0 +1,6 @@
+*.db
+/minnade/*.csv
+/minnade/NG.txt
+*.ods
+/minnade/memo.txt
+/test/test.py
